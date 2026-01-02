@@ -2,7 +2,7 @@
 
 A comprehensive QA-focused Mobile Application Automation project demonstrating **manual testing** and **Appium-based UI automation** for a native Android application.
 
-> **Portfolio Project** - Designed for QA Interns to demonstrate real-world QA practices.
+
 
 ---
 
