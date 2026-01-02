@@ -1,0 +1,13 @@
+# Python Dependencies for Mobile QA Automation Project
+# Appium Client for mobile automation
+Appium-Python-Client==3.1.0
+
+# Test framework
+pytest==7.4.3
+pytest-html==4.1.1
+
+# API testing
+requests==2.31.0
+
+# Utilities
+python-dotenv==1.0.0

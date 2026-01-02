@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.env
+
+# Mobile Automation
+app/*.apk
+screenshots/
+reports/
+
+# OS
+Thumbs.db
+Desktop.ini
