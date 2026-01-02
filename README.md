@@ -264,16 +264,19 @@ Reports are generated in the `reports/` directory:
 - `ui_report.html` - UI test results
 - `full_report.html` - Combined results
 
-Screenshots of failed tests are saved in `screenshots/` directory.
 
----
+<img width="1203" height="635" alt="image" src="https://github.com/user-attachments/assets/abe8a249-ab2f-4981-97ea-2857521f8453" />
 
-## 👤 Author
 
-**QA Intern Portfolio Project**
 
----
 
-## 📄 License
 
-This project is for educational and portfolio purposes.
+
+
+
+
+<img width="1757" height="334" alt="image" src="https://github.com/user-attachments/assets/a1f993c5-4673-4702-bbe8-8f55028a4638" />
+
+
+
+
